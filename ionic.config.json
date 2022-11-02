@@ -1,0 +1,7 @@
+{
+  "name": "PlanIt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
