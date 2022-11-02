@@ -1,3 +1,11 @@
-page-home {
+@import '../../app/app.scss';
 
+page-home {
+    .toolbar-title-md {
+        color: $color-black;
+    }
+    .toolbar-background-md {
+        background-color: $color-tone-5;
+        border-color: $color-tone-4;
+    }
 }
